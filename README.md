@@ -40,3 +40,9 @@ express
 npm install express-generator -g
 npm install
 ```
+
+## Start
+```
+npm install 
+npm start 
+```
